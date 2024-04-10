@@ -1,0 +1,13 @@
+{
+    "app": {
+      "name": "Aura Event Management App",
+      "version": "0.0.1",
+      "description": "Event Management App",
+      "ownerTeam": "UW",
+      "website": "",
+      "last_updated": "2022-04-03T12:00:00Z",
+      "platforms": ["Web"],
+      "copyrightYear": "2024"
+    }
+  }
+  
